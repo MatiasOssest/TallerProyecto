@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     
     #custom apps
     'inventario',
+    'utils',
 
 
     'django.contrib.admin',

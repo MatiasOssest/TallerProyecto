@@ -1,0 +1,6 @@
+nombre entorno virtual: entorno_virtual
+
+### admin
+
+usuario : admin
+password: 123456
