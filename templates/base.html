@@ -1,0 +1,18 @@
+{% load static %}
+
+    {% block title %}
+    {% endblock title %}
+
+   {% block header %}
+      {% include "header.html" %} 
+   {% endblock %}
+
+   <body> 
+
+   <div class= 'container'>
+       {% block content %} 
+
+       {% endblock %}
+   </div>
+   </body>
+
